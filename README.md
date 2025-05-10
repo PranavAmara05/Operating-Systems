@@ -59,6 +59,3 @@ You must grant access to your **webcam** and **microphone** when prompted.
 
 ---
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
