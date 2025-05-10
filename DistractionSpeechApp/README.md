@@ -20,6 +20,7 @@ A Streamlit application that demonstrates key OS concepts while providing practi
 git clone https://github.com/yourusername/DistractionSpeechApp.git
 cd DistractionSpeechApp
 
+
 # Install dependencies
 pip install -r requirements.txt
 
@@ -29,7 +30,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run os_with_ui_streamlt.py
-```
+```bash
 
 ## System Requirements
 
@@ -44,5 +45,7 @@ streamlit run os_with_ui_streamlt.py
 ## Contributors
 
 AMARA PRANAV- bl.en.u4aid23003@bl.students.amrita.edu
+
 JOSHIKA SOMiSETTY- bl.en.u4aid23019@bl.students.amrita.edu
+
 KODURI LAKSHMI VINUGNA -bl.en.u4aid23026@bl.students.amrita.edu
