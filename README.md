@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ```bash
 # Run without ui
-streamlit run os_without_ui.py
+python os_without_ui.py
 ```
 
 ```bash
