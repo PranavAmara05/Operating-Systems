@@ -4,17 +4,14 @@ A Streamlit application that demonstrates key OS concepts while providing practi
 
 1. **Distraction Detection**: Uses computer vision to detect when a user is distracted (looking away or closing eyes) and provides audio alerts.
 2. **Speech Transcription & Summarization**: Captures and transcribes speech, then summarizes important points.
-3. **OS Concepts Demonstration**: Implements and displays system calls, process priority management, threading, semaphores, and resource management.
+3. **OS Concepts Demonstration**: Implements system calls, threading,lock,and resource management.
 
 ## Features
 
 - Real-time face and eye tracking with MediaPipe
 - Audio alerts when distraction is detected
-- Speech-to-text transcription with Whisper model
+- Speech-to-text transcription with facebook bart model
 - Automatic summarization of transcribed text
-- Process priority control
-- System resource monitoring
-- Thread synchronization with semaphores
 
 ## Installation
 
@@ -26,14 +23,12 @@ cd DistractionSpeechApp
 # Install dependencies
 pip install -r requirements.txt
 
-# Download NLTK stopwords
-python -c "import nltk; nltk.download('stopwords')"
-```
+
 
 ## Usage
 
 ```bash
-streamlit run app.py
+streamlit run os_with_ui_streamlt.py
 ```
 
 ## System Requirements
@@ -43,19 +38,7 @@ streamlit run app.py
 - Microphone
 - Internet connection (for model downloads)
 
-## Project Structure
 
-```
-DistractionSpeechApp/
-├── app.py                       # Main Streamlit app
-├── requirements.txt             # All dependencies
-├── README.md                    # Project overview
-├── distraction_module/          # Distraction detection functionality
-├── speech_module/               # Speech processing functionality
-├── os_module/                   # OS concepts demonstration
-├── static/                      # Static files
-└── logs/                        # Application logs
-```
 
 
 ## Contributors
