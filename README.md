@@ -24,6 +24,7 @@ A Streamlit application that demonstrates key OS concepts while providing practi
 git clone https://github.com/yourusername/DistractionSpeechApp.git
 cd DistractionSpeechApp
 
+
 # Install dependencies
 pip install -r requirements.txt
 ```
@@ -33,7 +34,13 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
+# Run without ui
+streamlit run os_without_ui.py
+```
+
+```bash
 # Run the Streamlit app
+cd With_ui
 streamlit run os_with_ui_streamlt.py
 ```
 
