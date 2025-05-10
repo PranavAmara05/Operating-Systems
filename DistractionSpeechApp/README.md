@@ -60,4 +60,6 @@ DistractionSpeechApp/
 
 ## Contributors
 
-AMARA PRANAV- Bl.en.u4aid23003@bl.students.amrita.edu
+AMARA PRANAV- bl.en.u4aid23003@bl.students.amrita.edu
+JOSHIKA SOMiSETTY- bl.en.u4aid23019@bl.students.amrita.edu
+KODURI LAKSHMI VINUGNA -bl.en.u4aid23026@bl.students.amrita.edu
