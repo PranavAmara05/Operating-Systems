@@ -4,7 +4,7 @@ A Streamlit application that demonstrates key OS concepts while providing practi
 
 1. **Distraction Detection**: Uses computer vision to detect when a user is distracted (looking away or closing eyes) and provides audio alerts.  
 2. **Speech Transcription & Summarization**: Captures and transcribes speech, then summarizes important points.  
-3. **OS Concepts Demonstration**: Implements system calls, threading, lock, and resource management.
+
 
 ---
 
