@@ -41,7 +41,7 @@ streamlit run os_without_ui.py
 ```bash
 # Run the Streamlit app
 cd With_ui
-streamlit run os_with_ui_streamlt.py
+streamlit run os_with_ui_streamlit.py
 ```
 
 Once the app launches, it will open a local web interface in your browser.  
